@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **neerajkhajuriya7071@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1LmDkV3BGs7aSqKbxHDGWFHfT797wyCtr?usp=sharing](https://drive.google.com/drive/folders/1LmDkV3BGs7aSqKbxHDGWFHfT797wyCtr?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/drive/folders/1LmDkV3BGs7aSqKbxHDGWFHfT797wyCtr?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
