@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj7071&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj7071" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj7071" alt="neeraj7071" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java**
 
@@ -43,12 +43,6 @@
 
 
 
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left">
-
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="left">
-
-<img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left">
-
 
 <a href="https://github.com/Neeraj7071/github-readme-activity-graph"><img alt="Neeraj7071 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Neeraj7071&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
@@ -58,7 +52,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gaurav16-lang">
 </a>
-<a href="https://github.com/Neeraj7071?tab=followers"><img src="https://img.shields.io/github/followers/Neeraj7071label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Neeraj7071?tab=followers"><img src="https://img.shields.io/github/followers/Neeraj7071/label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
