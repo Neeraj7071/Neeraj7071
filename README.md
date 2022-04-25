@@ -66,7 +66,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Neeraj7071">
 </a>
-<a href="https://github.com/Neeraj7071?tab=followers"><img src="https://img.shields.io/github/followers/Neeraj7071/label=Followers&style=social" alt="GitHub Badge"></a>
-
+<a href="https://github.com/Neeraj7071?tab=followers"><img src="https://img.shields.io/github/followers/Neeraj7071?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
