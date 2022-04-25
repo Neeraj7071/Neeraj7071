@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **neerajkhajuriya7071@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1LmDkV3BGs7aSqKbxHDGWFHfT797wyCtr?usp=sharing](https://drive.google.com/drive/folders/1LmDkV3BGs7aSqKbxHDGWFHfT797wyCtr?usp=sharing)
+- 📄 Know about my experiences [Neeraj](https://drive.google.com/drive/folders/1LmDkV3BGs7aSqKbxHDGWFHfT797wyCtr?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -49,50 +49,9 @@
 
 <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left">
 
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="left">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="left">
-<img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" align="left">
-<br/>
-<br/>
-<img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left">
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
-
-<br />
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav16-lang&show_icons=true&theme=radical" width=47%>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=40% margin-left=50%>
-</p>
-<br/>
-<br/>
-
-
-
-
-
-
-<p align="center">
-    <a href="https://github.com/Neeraj7071/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gaurav16-lang" src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj7071&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 <a href="https://github.com/Neeraj7071/github-readme-activity-graph"><img alt="Neeraj7071 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Neeraj7071&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=80px/>
-
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/neeraj-khajuriya/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=30px /></a>
-<a href="https://www.facebook.com/neeraj7071/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width=30px style="margin-left=40px"/></a>
- <a href="https://github.com/Neeraj7071" target="_blank"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width=30px margin-left=40px/></a>
-
-</p>
 
 
 ## ❤ Views and Followers
