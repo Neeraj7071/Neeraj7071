@@ -68,7 +68,7 @@
     </a>
 </p>
 
-<a href="https://github.com/gaurav16-lang/github-readme-activity-graph"><img alt="gaurav16-lang Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gaurav16-lang&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Neeraj7071/github-readme-activity-graph"><img alt="Neeraj7071 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Neeraj7071&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=80px/>
 
