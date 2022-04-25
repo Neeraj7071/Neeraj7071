@@ -46,27 +46,25 @@
 
 <a href="https://github.com/Neeraj7071/github-readme-activity-graph"><img alt="Neeraj7071 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Neeraj7071&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left">
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
-
-<br />
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav16-lang&show_icons=true&theme=radical" width=47%>
+<img src="https://github-readme-stats.vercel.app/api?username=Neeraj7071&show_icons=true&theme=radical" width=47%>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=40% margin-left=50%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj7071&layout=compact"  width=40% margin-left=50%>
 </p>
 <br/>
 <br/>
+<p align="center">
+    <a href="https://github.com/Neeraj7071/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neeraj7071" src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj7071&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gaurav16-lang">
+    <img src="https://komarev.com/ghpvc/?username=Neeraj7071">
 </a>
 <a href="https://github.com/Neeraj7071?tab=followers"><img src="https://img.shields.io/github/followers/Neeraj7071/label=Followers&style=social" alt="GitHub Badge"></a>
 
