@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj Khajuriya</h1>
 <p align="center">
-<img src="https://express.adobe.com/sp/urn:aaid:sc:AP:00ba3a4d-9219-4f4d-b1e5-1be96c589856?fmt=post"  width=100% >
+<img src="https://media.giphy.com/media/snAJFDq3nNpkhGlsT3/giphy.gif"  width=100% >
 </p>
 <h3 align="center">A passionate backend developer from India</h3>
 
