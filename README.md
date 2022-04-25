@@ -46,6 +46,22 @@
 
 <a href="https://github.com/Neeraj7071/github-readme-activity-graph"><img alt="Neeraj7071 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Neeraj7071&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<br/>
+<img src = "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left">
+<br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
+
+<br />
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav16-lang&show_icons=true&theme=radical" width=47%>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav16-lang&layout=compact"  width=40% margin-left=50%>
+</p>
+<br/>
+<br/>
 
 
 ## ❤ Views and Followers
