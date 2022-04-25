@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://gifyu.com/image/SLBqz"  width=100% >
+<img src="https://s7.gifyu.com/images/ezgif.com-gif-maker-173a6b25ba762cbdf.gif"  width=100% >
 </p>
 <h3 align="center">A passionate backend developer from India</h3>
 
