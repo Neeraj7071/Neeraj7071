@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Khajuriya</h1>
+<p align="center">
+<img src="https://express.adobe.com/sp/urn:aaid:sc:AP:00ba3a4d-9219-4f4d-b1e5-1be96c589856?fmt=post"  width=100% >
+</p>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj7071&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj7071" /> </p>
