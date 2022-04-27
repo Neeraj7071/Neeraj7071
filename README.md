@@ -48,13 +48,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Neeraj7071&show_icons=true&theme=radical" width=47%>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj7071&layout=compact"  width=40% margin-left=50%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj7071&layout=compact&theme=radical"  width=40% margin-left=50%>
 </p>
 <br/>
 <br/>
 <p align="center">
     <a href="https://github.com/Neeraj7071/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neeraj7071" src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj7071&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neeraj7071" src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj7071&theme=radical&hide_border=true"/>
     </a>
 </p>
 
